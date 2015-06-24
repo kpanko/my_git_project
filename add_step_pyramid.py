@@ -13,6 +13,7 @@ __version__ = '.01'
 # Still TODO: Still bugs me that there are 6 variables that are guaranteed
 # to be assigned but not used at the end of the last iteration.
 # a few minor changes added to the comments to trigger possibly a new staging.
+# kevin was here
 
 import bpy
 from bpy.props import IntProperty, FloatProperty
